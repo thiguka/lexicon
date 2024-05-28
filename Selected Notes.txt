@@ -4,12 +4,12 @@
 #tags column:9
 "E2K#0P4?ip"	dasay	die							verb
 POoRHzN1%E	salath	give							
-k*nS|59g7s	asalisa	sun					"<img src=""sun.jpg"">"	"NASA; public domain (<a href=""https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg"">original</a>)"	noun
-jZ22JIIRLv	luti	moon					"<img src=""moon.jpg"">"	"Gregory H. Revera; CC BY-SA 3.0 ""Unported""&nbsp;(<a href=""https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg"">original</a>)"	noun
+k*nS|59g7s	asalisa	star (astronomical)	"asalisa refers to stars in general. Sol, the particular star that Earth revolves around, is called ""Solisa"""				"<img src=""sun.jpg"">"	"NASA; public domain (<a href=""https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg"">original</a>)"	noun
+jZ22JIIRLv	luti	moon (Luna; the specific moon that revolves around Earth)					"<img src=""moon.jpg"">"	"Gregory H. Revera; CC BY-SA 3.0 ""Unported""&nbsp;(<a href=""https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg"">original</a>)"	noun
 G/aziE8^b3	tubi	water							noun
 yVlXn%r|Z[	salu	salt							noun
 fiocc3^f{c	sute	stone							noun
-Bx1okw:[L?	lufah	wind							noun
+Bx1okw:[L?	lufah	wind; air							noun
 yJ/]dV<]cN	apay	fire							noun
 ltUQN@-pr[	kisu	kill							verb
 w(V3*/yoWu	saro	current year							noun time
@@ -18,7 +18,7 @@ ON7lL=L%1U	bage	new
 lJtb4}YT-x	leyle	name							noun
 D8)=UZy_5J	pasla	place							noun
 eARwK:s-)m	thil	thing							noun
-"K#@-N~Ukci"	lisuti	window							noun
+"K#@-N~Ukci"	lisuti	window (of a building)							noun
 qW^r.-rmI@	pelu	person							noun
 ypy@]`GP3Y	rifari	music	"Shortening of ""rigulahfayritu""."						noun
 "Fu#K{HhbEf"	tarifari	musician/singer							
@@ -26,7 +26,7 @@ B?m,_y?;qQ	Lela Reyl	Lena Raine							people proper-noun
 fS;ps-P|Br	gothi	fish							animals noun
 Cz%A2Bm7qw	aso	dog							animals noun
 h`V1T4KWGd	pasa	cat							animals noun
-xJ;qkEv]L	fathas	eye							body-parts noun
+xJ;qkEv]L	fathas	eye; to see							body-parts noun
 F-{m>mdhSl	fothes	nose							body-parts noun
 OUt,*)(xIL	tutho	tooth							body-parts noun
 HGzvtaB/3O	kageta	tongue/mouth							body-parts noun
@@ -34,7 +34,7 @@ MQZ(I|7Mk5	aysi	hand							body-parts noun
 pKL:4$<w,6	eyla	ear							body-parts noun
 L*(sOT+`u_	arfas	heart							body-parts noun
 BUEI)n<=3}	udag	brain							body-parts noun
-P6r!aYll/6	doros	body							body-parts noun
+P6r!aYll/6	doros	human body (alive)							body-parts noun
 Hr-lb{q$gz	kotho	color							color noun
 grsm:+(dnm	ret	red							color noun
 t5vqJ:N$jv	gilis	green							color noun
@@ -48,10 +48,10 @@ opAsLh<9[t	balu	light blue							color noun
 O]5y~6UpGj	sagla	dark blue							color noun
 vD_M3j@[y2	lisa	woman							noun people
 AMW*n<{$~{	toli	man							noun people
-B.Cose=`Ei	laysa	mother							noun people
-hwJYbA[Sik	filaysa	teen mother							noun people
-q}6d=CVit]	tali	father							leech noun people
-M1Y(T=TFx*	peli	parent							noun people
+B.Cose=`Ei	laysa	mother (biological)							noun people
+hwJYbA[Sik	filaysa	teen mother (biological)							noun people
+q}6d=CVit]	tali	father (biological)							leech noun people
+M1Y(T=TFx*	peli	parent (biological)							noun people
 n+$EVY8<yu	beretha	birth							
 G?|`TKm=cD	berethata	to be born							
 A?9S|0$+Zf	lahkela	make							
@@ -93,7 +93,7 @@ c!gP3y%GT8	gisafi	desire; to desire or want something							noun
 o]CG)4}Be_	sadidag	decision (as in &quot;my decision to do this&quot;)	"from ""ugugisadi udag"", lit. ""brain desire"""						
 M.n{E@QG/L	Ala	Anna							
 L*<m<J%HGw	"lahfefi (from ""ofegulahfay ofefi"", lit. ""beautiful movement"")"	dance							noun
-He+wXO}M7[	fahlahfefi	dancer	"(with fah- agent noun prefix), also, ""pelifefi"" (from ""lahgupeli lahfefi"", lit. ""dance person"")"						noun
+He+wXO}M7[	fahlahfefi	dancer	"(with fah- agent noun prefix), also, ""pelifefi"" (from ""lahgupeli lahfefi"", lit. ""dance person"")"						affix::prefix noun
 bghBWyoRJv	kuyri	choir							noun
 t$O:Egi|m*	fayolil	violin							noun
 r{[q-=wzc?	fahfayolil	violinist							noun
@@ -171,11 +171,11 @@ H=@`vO37lP	agsalara	age							noun
 r8UugEaO)r	-tasafa	higher than	Added as a suffix.						adverb affix::suffix
 r-n9g(S=Sd	ferose	iron							noun
 yBR__H}/gM	ferokara	railway; railroad; rail							transportation::railway
-zhZ<y1ive}	kafahla-	"sub-; under, beneath; ""submarine"", ""subterranean"";"							affix::prefix leech
+zhZ<y1ive}	kafahla-	"sub-; under, beneath; ""submarine"", ""subterranean"";"							leech
 Dx;V,J*x6{	kesi	building							noun
 gQh6c!xf6=	ilakesi	hotel		sleeping building	"ke~gu-ilasag   kesi<br>
 AGR~ADJ-sleep  building"	keguilasag kesi			buildings
-F]VlQ0b7(|	pekulugasag	moderator (of a website; internet community)	"shortening of ""pelupahsa kufasa pelutayelah kolagasa thaguithere tharasagtayelah""<br><br>pelu-pah-sa kufa-sa pelu-tay-elah kolaga-sa tha~gu-ithere tharasag-tay-elah<br>person-NOM-SG compel-PRS person-ACC-PL comply-PRS AGR~ADJ-internet rule-ACC-PL"	person who makes people follow internet rules					computers::internet noun
+F]VlQ0b7(|	pekulugusag	moderator (of a website; internet community)	"shortening of ""pelupahsa kufasa pelutayelah kolagasa thaguithere tharasagtayelah""<br><br>pelu-pah-sa kufa-sa pelu-tay-elah kolaga-sa tha~gu-ithere tharasag-tay-elah<br>person-NOM-SG compel-PRS person-ACC-PL comply-PRS AGR~ADJ-internet rule-ACC-PL"	person who makes people follow internet rules					computers::internet noun
 t}BTg9?<1>	sorefe	shoulder							body-parts noun
 "Bn[<#<9MPy"	suleti	clothing							clothing noun
 x[PmW^:q6r	talahke	hot; heat							adjective noun
@@ -209,7 +209,7 @@ uoE<+,`XYr	Erlita	Ermita							countries::Philippines places proper-noun
 ;l(IvigEG	Olifia	Olivia							proper-noun
 h}TLlkRdjh	Elisabeth	Elizabeth							proper-noun
 "CZl6=#WLJ4"	susi	sushi; keys	"From English ""sushi"" / From Tagalog ""susi"""						etymology::borrowings::Tagalog noun
-u4t_]5jz%+	laydilay	daytime							noun
+u4t_]5jz%+	laydilay	daytime (when the sun is in the sky)							noun
 cJ+v1ih{9z	lilaydilay	nighttime	"li- (negation) + laydilay (""daytime"")"						noun
 feSU:orA)=	lilayboro	night shift; night work		night labor		leygulilayta leyboro			noun
 A+K6KiL8!2	igalari	important							noun
@@ -225,7 +225,7 @@ jkrF/~2R:M	likahfala	wrong answer; incorrect							leech
 ibwr`:Q!^t	talahkesa	answer; response							leech
 wvRKPgX-v%	likahpik	mispronunciation	"from ""likahfala sipik"""	wrong speaking					
 m,erP<Oq<)	-gula	two of (something)	Thiguka dual plurality suffix						affix::suffix plurality
-"h<JylIt1J#"	-sa (plurality)	one (of something)	Thiguka singular suffix						affix::suffix plurality
+"h<JylIt1J#"	-sa (plurality)	one (of something); plurality suffix	Thiguka singular suffix						affix::suffix plurality
 FQeDF<zS6`	-pa	none (of something)	Thiguka negative number suffix (zero of something)						affix::suffix plurality
 x+$`ZmX8tk	-pah		Thiguka nominative case suffix						affix::suffix case
 H)d3PJWYu	-tay		Thiguka accusative case suffix						affix::suffix case
@@ -240,17 +240,13 @@ FD0dpe>C+(	-tha	will [verb]	Thiguka future tense marker						affix::suffix tense
 rJD}~rg-.U	rafu	they (plural)	Thiguka third-person plural pronoun						pronoun
 EP<cS6{DnA	kake	you	Thiguka second person singular pronoun						pronoun
 "J3_E#u$yo@"	katake	you all	Thiguka second person plural pronoun						pronoun
-dd/N?_YD9*	situ	You and I; we	Thiguka first person plural inclusive pronoun (speaker and listener)						pronoun
-GqwbgA6n51	pata	Me and my friends; we	Thiguka first person plural exclusive pronoun (speaker and speaker's friends, but not listener)						pronoun
+dd/N?_YD9*	situ	"You and I; we; Tagalog ""tayo"""	Thiguka first person plural inclusive pronoun (speaker and listener)						pronoun
+GqwbgA6n51	pata	"Me and my friends; we; Tagalog ""kami"""	Thiguka first person plural exclusive pronoun (speaker and speaker's friends, but not listener)						pronoun
 O{vz9.TFys	rikalufes	overexposure (photography)	"ri- (intensifier) + kalufes (""camera exposure"")"						photography
 "mi-XZ:#37["	likalufes	underexposure	"fi- (negation) + kalufes (""camera exposure"")"						photography
 C7FcX^y^Xx	fipelu	child; kid							noun
 jrmKBi|?>M	balisa / filisa	daughter		new woman / small woman					lemma noun
 MH/.C20{/f	batoli	son (child); male child		new man					noun
-dit1l9]9M%	Asalisapah {{c1::lahkelata laytatay::made light}}.	The sun <i>shone</i>.	The sun made light.		"Asalisa-pah  lahkela-ta  layta-tay
-Sun-NOM      make-PST    light-ACC"				shannon-test-sentences
-y(g{!c1`,r	Thakapafay pasa las {{c1::balaka}}.	My cat is <i>black</i>.			"Thaka-pafay  pasa-sa  las  balaka.
-1SG-GEN      cat-SG   COP  black."				shannon-test-sentences
 O,sr}cT!3b	fisipaka	language (other than Thiguka)	"from ""fisitupafay thigukageta thil"""	not our mouth thing					etymology::portmanteau languages lemma noun
 P6;J4c@rnk	Sera	Sarah; Sara							lemma proper-noun
 zXSv+H4k-G	gawralay	ground; surface							noun
@@ -286,7 +282,7 @@ BmocABACB]	ithesatha	to be banned from an Internet community (v)<br>Internet ban
 AGR~ADJ-internet  remove.N"	liguithere lifasadha			computers::internet verb
 c1x:aSuaM8	fasahri	from (a source)							preposition
 "nY#d{GG(AT"	ferasala	fear of pronouncing one's name incorrectly							preposition
-Gwl`xEQ!v	kalese	from (indicates removal or separation)							preposition
+Gwl`xEQ!v	kalese	from (indicates removal or separation); [removed] <u>from</u> [office]							preposition
 qM.AJRqE*F	orielija	to sail away from something	"Portmanteau of Orinoco (from the song ""Orinoco Flow"") + Elija (Enya). The song ""Orinoco Flow"" is also known as ""Sail Away""."						verb
 K0-^HmvvMV	parefas	possibility							noun
 k{dnk5Zaxk	palerefas	warning			pa~gu-palad  pa~gu-efete    parefas<br>AGR~ADJ-bad  AGR~ADJ-event  possibility	pagupalad paguefete parefas&nbsp;			interjection noun
@@ -300,9 +296,9 @@ p5=*i6.5QA	-safi	-th (odd)	Odd number ordinal suffix						affix::suffix
 ka!!WL9(jA	li-	un-; non-	Negation prefix						affix::prefix
 c1va3m5Vv-	pariolota	arrogant; to be arrogant							
 Bd=6G$K>F{	-ifeyla	listening to; in ear	suffix&nbsp;for verbs about listening to something	"""in ear"""					affix::suffix
-QtW`P}MnG8	ritifeyla	to listen; to hear something							verb
+QtW`P}MnG8	ritifeyla	to listen; to hear something							leech verb
 D;sj|X0P]d	rififeyla	to listen to music							verb
-ewz.7%-jpQ	sifeyla	to listen to someone speak							verb
+ewz.7%-jpQ	sifeyla	to listen to someone speak							leech verb
 z)ui9A5x/	lahrithi	musical instrument		music making thing	"lahkela-sa thi~gu-rifari-tay thil<br>
 make.V-PRS AGR~ADJ-music-ACC thing"	lahkelasa thigurifaritay thil			noun
 D><BTy!Osr	berepasla	birthplace; origin;<br>to originate in (v)		birthplace					noun verb
@@ -337,14 +333,12 @@ s9XC[uU5@L	rifaled	record label		music company	"lah~gu-rifari lahpeled<br>
 AGR~ADJ-music company"				
 n15@{)83*s	kalisu	what	Determiner						determiner
 J%5@}-CDJR	katarila	to travel through space	"Comes from ""Catarina"", a member of the Conlangs Discord Network who extensively chatted with Lemuria about their far future setting where interplanetary travel is dangerous due to ""space screaming"""						verb
-xak3rZJgER	filay-	to do something with a cat present							affix::prefix
+xak3rZJgER	filay-	to do something with a cat present							
 n@k_k$%6;z	ithere	internet							noun
-A4QCdIvB-x	sarafali	to browse							verb
+A4QCdIvB-x	sarafali	to browse; to sift through; to curate;							verb
 m4.aIi3Lwk	ithefali	to browse the internet							computers::internet verb
-f%([g6`kXT	Thakapah dagu{{c1::parefas::possibility}} {{c2::dasay::die}}tha!	You might die!							
-iNK|gtORWo	Thakapah palapikta talitay, thete {{c1::pekulugusag::moderator}}pah {{c2::palerefas::warn}}a thakatay.	I criticized someone, then a moderator warned me.							
 -e!mr:]7p	palasaro	anxiety caused by authority figures							noun
-m12j*d51g|	afo-	(of a person) oversensitive							affix::prefix
+m12j*d51g|	afo-	(of a person) oversensitive							
 I$USk4>4Lw	ketala	fear of being banned by a moderator on the Internet while asleep							noun
 Ed<tbSM}/O	larakas	to steal							noun
 Ciaki)FV!c	itheleyle	username		internet name					
@@ -354,17 +348,70 @@ cqijF`=[hp	fesalas	fried food; to fry food
 vklQO_4u}!	ofesabi	river		moving water	"tu~gu-ofefi-sa     tubi
 AGR~ADJ-move.V-PRS water"	tuguofefisa tubi			water
 Hgwm`(Y(J.	fiofesabi	stream (small river)			fi-ofesabi<br>DIM-river				water
-iiHuZEyYav	larakata	family							
+iiHuZEyYav	larakata	family (nuclear; only parents and siblings - people with the same parents as you)	`siblings` has to be defined, because not all kinship systems use the term the same way						
 Ix0_<Ml]Ox	kalakesi	school	"kala (""knowledge"") + kesi (""building"")"						
 cy$>~-8,pk	prafasi	privacy							
 x8+jplO=+w	beregata	to sell							verb
 ezodqiZ.!c	bili	to buy	"From Tagalog ""bili""."						etymology::borrowings::Tagalog
-tvfry-e|;q	Ifil 1970, {{c2::ifigilepelu::member}}pahelah ifil Elijapafay {{c4::larakata::family}}sa {{c1::pa::perfective aspect}}lahkelata las Keltik folk {{c3::rifalagiled::band}} Klalad.	In 1970, several members of Enya's family formed Clannad, a Celtic folk band.			Ifil 1970, ifigilepelu-pah-elah&nbsp; &nbsp;ifil Elija-pafay larakata-sa patari-lahkela-ta&nbsp; las Keltik folk rifalagiled&nbsp; &nbsp; &nbsp; Klalad.<br>In&nbsp; &nbsp;1970, in.group.person-NOM-PL in&nbsp; &nbsp;Enya-GEN&nbsp; &nbsp; family-SG&nbsp; &nbsp;PST.PFV-make.V-PST COP Celtic folk music.make.guild Clannad				
 HLdR*+n9OT	saglapelu	police officer	"sagla (""dark blue"") + pelu (""person"")"	blue people					
 JfCg++=,8`	sapalefete	safety		stop bad event	sakara efe~gu-palad efete-tay<br>stop.V AGR~ADJ-bad&nbsp; event-ACC				
 !:%,xK|to	rila	outer space	"back formation from katarila (""to travel through space""), ultimately from Catarina"						
-y8b50xcJda	ithe-	e-; anything associated with the Internet							prefix
+y8b50xcJda	ithe-	e-; anything associated with the Internet							
 j2Nhi=YmOy	ofelepe	physical mail; to mail a letter							noun verb
 nO)EgkSL=+	ithefelepe	email; to email someone							noun verb
 pJcyY.~?st	asawa	spouse; husband; wife	"From Tagalog ""asawa"""						etymology::borrowings::Tagalog noun verb
 J^Q}wD<nX~	rifalahfas	album	"rifari (""music"") + salahfas (""collection"")"						
+K|&PMRHQ[v	iba	another; different one;	borrowed from Tagalog iba						etymology::borrowings::Tagalog noun
+MYIQ~VrQlT	elah	many	From Thiguka -elah (plural marker)						adjective
+O(_B?:^%~U	pafay	to have; has;	From Thiguka -pafay (genitive)						verb
+Eg)RG$l4sI	lakad	walk; to walk	"borrowed from Tagalog lakad (""walk"")"						etymology::borrowings::Tagalog verb
+DEFKh{gB/|	esahla	existence; to exist							noun verb
+"wkkR1i9[+#"	liti	small (size); little; tiny; to shrink; to deflate							adjective verb
+2a2y*l7>|	laki	big (size); to grow in size; to expand; to inflate	"From Tagalog ""big"""						adjective etymology::borrowings::Tagalog
+qS4Aa3+/^5	o	or							etymology::borrowings::Tagalog
+J)A<yknGw?	kula	if							
+M/TR/F)Q>=	gasari	action; to do; to take an action;							noun
+faW?U@>12=	isi	of							preposition
+"inqc1N`&X#"	fulahthi	crafts; as in arts and crafts		fun thing making	"thi~gu-furos lahkela-sa thil<br>AGR~ADJ-fun&nbsp; make.V-PRS thing<br>""fun thing making"""	thigufuros lahkelasa thil			noun
+pdc$+`<exD	dorofete	human health; healthcare; to be healthy; of good health	"doros (""human body"") + sapalefete (""safety"")"	"""body safety"""					adjective noun
+gg!}w6pC{Q	dorofetekala	hospital		health place	dorofete-kala<br>health-LOC				buildings noun
+jE5?|]OkU)	fahdorofete	doctor (for humans)		healther	fah-dorofete<br>AGT-human.health				noun
+Ohnoe(Hb6k	lufirothi	human lung		air inside body thing	lufah ifil doros-kala&nbsp; &nbsp; &nbsp;thil<br>air&nbsp; &nbsp;in&nbsp; &nbsp;human.body-LOC thing				noun
+cdbyV.E*-=	gra	gram (weight)	"borrowed from English ""gram"""						measure noun SI
+v{(/lqKf-y	keta-	quetta- (SI prefix)							affix::prefix measure SI
+n,T6O_%$R-	rola-	ronna- (SI prefix)							affix::prefix measure SI
+k*a*7eavHc	ota-	yotta- (SI prefix)							affix::prefix measure SI
+kEvZbkGr]!	seta	zetta- (SI prefix)							affix::prefix measure SI
+t!$[N;gI-;	eksa-	exa- (SI prefix)							affix::prefix measure SI
+iDh4>01Zu=	kalu (marker)		polar question marker (attach to end of sentence)						
+bwj69DU&&,	peta-	peta-							affix::prefix measure SI
+zEB$lNu[w|	tera-	tera-							affix::prefix measure SI
+e?k]WBuE{g	giga-	giga-							affix::prefix measure SI
+iyG!vb[2kA	ega-	mega-							affix::prefix measure SI
+CG5Uqdp(C{	kilo-	kilo-							affix::prefix measure SI
+w{^0exPkj}	ekto-	hecto-							affix::prefix measure SI
+"OCG*j#4Uwd"	deka-	deca-							affix::prefix measure SI
+eGv%2Oi4gR	desi-	deci-							affix::prefix measure SI
+rq=&XtPg[z	selti-	centi-							affix::prefix measure SI
+iJJ1hHzCZe	ili-	mili-							affix::prefix measure SI
+bo_w!sM&z>	aykro-	micro-							affix::prefix measure SI
+JI`SWii%1J	lalo-	nano-							affix::prefix measure SI
+cWK7IWK)M+	piko-	pico-							affix::prefix measure SI
+euR^d{vcMk	feto-	femto-							affix::prefix measure SI
+r2g,1Io.a$	ato-	atto-							affix::prefix measure SI
+HX)iq^zm8y	septo-	zepto-							affix::prefix measure SI
+L=m**qVA*p	okto-	yocto-							affix::prefix measure SI
+B1e8hE+o>	rolto-	ronto-							affix::prefix measure SI
+"j=m4C,#*Vm"	kekto-	quecto-							affix::prefix measure SI
+BZ^X5ef)^	Solisa	the Sun that Earth revolves around	"Latin ""Sol"" + Thiguka ""asalisa"" (star)"						proper-noun
+m1*qupeen~	lilahfipelu	infertility; to be unable to have children		not making small humans	li-lah-fi-pelu<br>NEG-make-DIM-person				noun
+B^/;n_<.pk	lahfipelu	to give birth to a human							noun
+v+18o=:-M(	serek	between (work in progress)							noun
+C(!eO@-,c0	dasil	because; reason (for an action)							noun
+zJ<j3On98T	pilari-	prefix indicating a fragment of something							clitic prefix
+mge2Y}!&~b	pilaraysi	human finger	"pilari- (""fragment of something"") + aysi (""hand"")"						noun
+ME^cMILCSw	lakilarasi	human thumb	"laki (""big"") + pilaraysi (""human thumb"")"						noun
+H-d<:mNXU7	tasa	up; in the opposite direction of gravity's pull							noun
+n){*;3zcT/	isasafi	first	"isa (""first"") + -safi (odd number ordinal suffix)"						noun
+AXv>5v1c0?	isathipasla	front page (of a website)		first thing on a website	thi-gu~isa-safi&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;thil&nbsp; ifil itherepasla-kala<br>AGR~ADJ-first-ORDINAL.odd thing on&nbsp; &nbsp;website-LOC	isasafi thil ifil itherepasla			noun
+=0I:LIn!{	kada-	every; each;	prefix						affix::prefix
