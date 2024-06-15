@@ -22,7 +22,7 @@ eARwK:s-)m	Thiguka word	thil	thing							noun
 "K#@-N~Ukci"	Thiguka word	lisuti	window (of a building)							noun
 qW^r.-rmI@	Thiguka word	pelu	person; human; an instance of&nbsp;<i>Homo sapiens</i>							noun
 ypy@]`GP3Y	Thiguka word	rifari	music	"Shortening of ""rigulahfayritu""."						noun
-"Fu#K{HhbEf"	Thiguka word	tarifari	musician/singer							
+"Fu#K{HhbEf"	Thiguka word	tarifari	musician/singer							noun
 B?m,_y?;qQ	Thiguka word	Lela Reyl	Lena Raine							people proper-noun
 fS;ps-P|Br	Thiguka word	gothi	fish							animals noun
 Cz%A2Bm7qw	Thiguka word	aso	dog							animals noun
@@ -32,7 +32,7 @@ F-{m>mdhSl	Thiguka word	fothes	nose							body-parts noun
 OUt,*)(xIL	Thiguka word	tutho	tooth							body-parts noun
 HGzvtaB/3O	Thiguka word	kageta	tongue/mouth							body-parts noun
 MQZ(I|7Mk5	Thiguka word	aysi	hand							body-parts noun
-pKL:4$<w,6	Thiguka word	eyla	ear							body-parts noun
+pKL:4$<w,6	Thiguka word	eyla	ear							body-parts leech noun
 L*(sOT+`u_	Thiguka word	arfas	heart							body-parts noun
 BUEI)n<=3}	Thiguka word	udag	brain							body-parts noun
 P6r!aYll/6	Thiguka word	doros	human body (alive)							body-parts noun
@@ -53,7 +53,7 @@ B.Cose=`Ei	Thiguka word	laysa	mother (biological)							noun people
 hwJYbA[Sik	Thiguka word	filaysa	teen mother (biological)							noun people
 q}6d=CVit]	Thiguka word	tali	father (biological)							leech noun people
 M1Y(T=TFx*	Thiguka word	peli	parent (biological)							noun people
-n+$EVY8<yu	Thiguka word	beretha	birth							
+n+$EVY8<yu	Thiguka word	beretha	birth							noun
 G?|`TKm=cD	Thiguka word	berethata	to be born							
 A?9S|0$+Zf	Thiguka word	lahkela	make							
 HOsdo=r+Aj	Thiguka word	kufa	make one do something (verb)							
@@ -68,11 +68,11 @@ jMMg|Pr|j|	Thiguka word	sifata	to live; to be alive (v) / life (n)
 "lo#WEQJ@|["	Thiguka word	aga	early							
 i?[WM6Qhz|	Thiguka word	siguaga sifata	early life / childhood							
 oj~H@:~m2K	Thiguka word	rayfa	write							
-DAP]bktJv?	Thiguka word	patife	change							
+DAP]bktJv?	Thiguka word	patife	change							noun
 Nrje:>*A<f	Thiguka word	sipik	speak / to speak							
 BsF-thVRI]	Thiguka word	patiray	translate							
 gyW?4%Q?U%	Thiguka word	laita	light							
-t4bU0z{JK$	Thiguka word	lilaita	dark							
+t4bU0z{JK$	Thiguka word	lilayta	dark							
 i>O$F)+gAL	Thiguka word	geyle	game							noun
 t+}/;dJ{d7	Thiguka word	leyboro	(n) work / labor / effort<br>(v) to work, to put in effort							
 AgLVm%>H8^	Thiguka word	efete	event							noun
@@ -83,12 +83,12 @@ x@u&{h%y8c	Thiguka word	sifothi	"story, tale, article (like ""encyclopedia artic
 O?H!^5>z;k	Thiguka word	sigupeke sifothi	fictional story							noun
 okw/d&_6%2	Thiguka word	pesulu	fan (of a work of fiction)			si~gu-peke pe~gu-sifothi pelu<br>AGR~ADJ-fake AGR~ADJ-story person	sigupeke pegusifothi pelu			noun
 sJm-$B(`(p	Thiguka word	efekala	news	"lit. ""event info"""						noun
-Pt)7M;f^10	Thiguka word	must	fusala							
+Pt)7M;f^10	Thiguka word	must; required to;	fusala							
 rmDJoVX|TG	Thiguka word	gulid	good							
 pR}v,<s@?P	Thiguka word	rigulid	very good							
 H[MzZT%A4<	Thiguka word	palad	bad							
 "L=#t_ORmd;"	Thiguka word	ripalad	worst							
-ipL4M>b0{n	Thiguka word	palapik	criticize	(from &quot;sigupalad sipik&quot;, lit. &quot;bad speaking&quot;)						
+ipL4M>b0{n	Thiguka word	palapik	criticize	"(from ""sigupalad sipik"", lit. ""bad speaking"")"						leech
 "nMm_M8T$#^"	Thiguka word	lipalad	not wrong; neutral							
 c!gP3y%GT8	Thiguka word	gisafi	desire; to desire or want something							noun
 o]CG)4}Be_	Thiguka word	sadidag	decision (as in &quot;my decision to do this&quot;)	"from ""ugugisadi udag"", lit. ""brain desire"""						
@@ -110,7 +110,7 @@ QjnvMiN[!k	Thiguka word	aglad	book							noun
 zR~}z)3:+t	Thiguka word	asaga	allow; nominate (v)<br>consent; permission (n)<br>yes (interjection)							
 urM-E/U]u(	Thiguka word	olota	honor							noun
 v<~i92XlXT	Thiguka word	thiguolota thil	award	(honorable thing)						noun
-"sH3p~#=#eU"	Thiguka word	risif	receive							
+"sH3p~#=#eU"	Thiguka word	risif	to receive							verb
 LR?7d`{[MP	Thiguka word	thiley	machine	(from &quot;thiguleyboro thil&quot;, lit. &quot;labor thing&quot;)						
 "E#u3sKLm!R"	Thiguka word	pothu	he; she; singular they	Thiguka's 3rd person singular pronoun						pronoun
 N2Jk;WGS:y	Thiguka word	thaka	I (first person singular)							pronoun
@@ -124,7 +124,7 @@ nl}FU.}a~t	Thiguka word	kelilasu	anger							noun
 w)f(sy*yVQ	Thiguka word	Telits	Twitch	American live-streaming platform						computers::internet::social-media proper-noun Twitch
 m{y-{Iu[UX	Thiguka word	Kalo	Canon	Camera brand						photography proper-noun
 cnS?%?EkbC	Thiguka word	Likol	Nikon	Camera brand						
-r;<+Qe/W3_	Thiguka word	sedikara	SD card							
+r;<+Qe/W3_	Thiguka word	sedikara	SD card							noun
 NbPHPsvI^{	Thiguka word	-elah	-s (plural suffix)	Thiguka plural suffix<br>kaela&lt;b&gt;elah - tree&lt;b&gt;s&lt;/b&gt;						affix::suffix plurality
 K1UDvZ7(X~	Thiguka word	kalafasa	ballpen							noun
 x]H/?-S-6u	Thiguka word	kuralag	subdivision; gated community							noun places
@@ -141,26 +141,26 @@ sxyti</L<:	Thiguka word	dalata	two (2)							number
 RiNF^+3-$s	Thiguka word	talo	three (3)							number
 d]v?;{e]^*	Thiguka word	apal	four (4)							number
 KgAbSL?LL{	Thiguka word	palikas	panic							
-tiY>A(lgs:	Thiguka word	risufalo	ribbon							
+tiY>A(lgs:	Thiguka word	risufalo	ribbon							noun
 Qc7[p%75&H	Thiguka word	lirisara	to miss something obvious	"This word exists because Lemuria was wondering what a ""saralang"" was for the ""Hiidaden"" thread in the Conlangs Discord Network, and he didn't realize the creator's name was Sara."						
 "MSj#.6KGD["	Thiguka word	loth	north							
 I_r__SnNZb	Thiguka word	soth	south							
 l,wPXpK^B[	Thiguka word	isefe	east							
-yX]|3zJAL4	Thiguka word	efesu	west							
-"sdghI7#boq"	Thiguka word	pasalath	path							
-l$|r_5-bt6	Thiguka word	kalsafa	road							
+yX]|3zJAL4	Thiguka word	efesu	west							leech
+"sdghI7#boq"	Thiguka word	pasalath	path; method; way of doing things;							noun
+l$|r_5-bt6	Thiguka word	kalsafa	road							noun
 OB>Aep|n-.	Thiguka word	rikalsafa	highway; freeway; motorway			ri-kalsafa<br>INT-road		"<img src=""highway.jpg"">"	"RioHondo, CC BY 3.0 ""Unported"" (<a href=""https://commons.wikimedia.org/wiki/File:Manila%E2%80%93Cavite_Expressway.jpg"">original</a>)"	transportation
 gAixtbECqd	Thiguka word	itherepasla	website							computers::internet noun
 DFtd:iHpV3	Thiguka word	kalera	camera							lemma noun photography
 x*T$.w^E`3	Thiguka word	thete	then							
 G%Fyp@?nx_	Thiguka word	kuraka	image							lemma photography
-GmH~w-l_tX	Thiguka word	rilufah	storm (lit. large wind)<br><br>also: hurricane, typhoon, cyclone							
+GmH~w-l_tX	Thiguka word	rilufah	storm (lit. large wind)<br><br>also: hurricane, typhoon, cyclone							noun
 kGp1TZ!Tob	Thiguka word	telosolila	technology							
 kxsy&u;!(|	Thiguka word	kala	to know (v);<br>information (n)							
 A!X(wL6q~:	Thiguka word	kalath	teacher		knowledge giver	"sa~gu-kala          fah-salath
 <br>
-AGR~ADJ-knowledge   AGT-give"	sagukala fahsalath			
-Lxp;NY1^oY	Thiguka word	thiguasalisa alu thiguluti thil; asaliluti	solar eclipse		sun and moon thing					
+AGR~ADJ-knowledge   AGT-give"	sagukala fahsalath			leech noun
+Lxp;NY1^oY	Thiguka word	thiguasalisa alu thiguluti thil; asaliluti	solar eclipse		sun and moon thing					noun
 NDUAL&OqwB	Thiguka word	tharasag	law; rule;							
 Hb}cd}@Qle	Thiguka word	serfisele	service							
 I+<L~AIZ.5	Thiguka word	kolaga	comply; abide (by a law); follow (the rules)							
@@ -181,7 +181,7 @@ t}BTg9?<1>	Thiguka word	sorefe	shoulder							body-parts noun
 "Bn[<#<9MPy"	Thiguka word	suleti	clothing							clothing noun
 x[PmW^:q6r	Thiguka word	talahke	hot; heat							adjective noun
 jD>8oq@Ab7	Thiguka word	fi-	-y, -ie	Thiguka diminuitive prefix						adjective affix::prefix
-P:L=%t5t<+	Thiguka word	litalahke	cold; cool (temperature)	"li- (negation) + talahke (""heat"")"						clothing noun
+P:L=%t5t<+	Thiguka word	litalahke	cold; cool (temperature)	"li- (negation) + talahke (""heat"")"						clothing leech noun
 "n?A#y~*G8J"	Thiguka word	Ilgis	English							languages proper-noun
 I~T9c?oVGg	Thiguka word	Tagalog	Tagalog	Thiguka's phonotactics allow saying Tagalog without modifications, so it is the exact same.						languages proper-noun
 GB<y7{jWZi	Thiguka word	Palestayle	Palestine							countries proper-noun
@@ -221,11 +221,11 @@ l}9AzRYcE[	Thiguka word	siligara	perform; livestream
 f,yGId+sV(	Thiguka word	teligara	to stream on Twitch	"short form of ""Sigutelits siligara"""	to twitch-stream					Twitch verb
 "F^~*j#n>Q^"	Thiguka word	leras	left (direction)							
 "b;`J#2flhb"	Thiguka word	gafata	right (direction)							
-t`uC(DF68M	Thiguka word	kahfala	correct; right							
+t`uC(DF68M	Thiguka word	kahfala	correct; right							leech
 jkrF/~2R:M	Thiguka word	likahfala	wrong answer; incorrect							leech
 ibwr`:Q!^t	Thiguka word	talahkesa	answer; response							leech
 wvRKPgX-v%	Thiguka word	likahpik	mispronunciation	"from ""likahfala sipik"""	wrong speaking					
-m,erP<Oq<)	Thiguka word	-gula	two of (something)	Thiguka dual plurality suffix						affix::suffix plurality
+m,erP<Oq<)	Thiguka word	-gula	two of (something); (plurality)	Thiguka dual plurality suffix						affix::suffix plurality
 "h<JylIt1J#"	Thiguka word	-sa (plurality)	one (of something); plurality suffix	Thiguka singular suffix						affix::suffix plurality
 FQeDF<zS6`	Thiguka word	-pa	none (of something)	Thiguka negative number suffix (zero of something)						affix::suffix plurality
 x+$`ZmX8tk	Thiguka word	-pah		Thiguka nominative case suffix						affix::suffix case
@@ -251,7 +251,7 @@ MH/.C20{/f	Thiguka word	batoli	son (child); male child		new man					noun
 O,sr}cT!3b	Thiguka word	fisipaka	language (other than Thiguka)	"from ""fisitupafay thigukageta thil"""	not our mouth thing					etymology::portmanteau languages lemma noun
 P6;J4c@rnk	Thiguka word	Sera	Sarah; Sara							lemma proper-noun
 zXSv+H4k-G	Thiguka word	gawralay	ground; surface							noun
-"v}t,}~&_#@"	Thiguka word	Utub	YouTube							
+"v}t,}~&_#@"	Thiguka word	Utub	YouTube							proper-noun
 CX2`nTkG`p	Thiguka word	Agufeys aglad; Feysbok	Facebook							computers::internet::social-media proper-noun
 rTuV;2;,<j	Thiguka word	Diskod	Discord							computers::internet::social-media proper-noun
 EnTSUMluez	Thiguka word	Redit	Reddit							computers::internet::social-media proper-noun
@@ -274,7 +274,7 @@ AGR~ADJ-coffee building"	kegufilasabi kesi			noun
 JxEL>aL9oU	Thiguka word	ithesipakala	voice chat (on the Internet)			pa~gu-ithere      pa~gu-sipik  pasla-kala<br>AGR~ADJ-internet  speak.V      place-LOC	internet speaking place			computers::internet noun
 w3b2u}2:@W	Thiguka word	itherapakala	internet forum			"pa~gu~ithere      pa~gu-rayfa      pasla-kala
 AGR~ADJ-internet  AGR~ADJ-write.V  place-LOC"	internet writing place			computers::internet noun
-NMxU{&>ZDy	Thiguka word	salahsa	to be hard to contact; remote							adjective verb
+NMxU{&>ZDy	Thiguka word	salahsa	to be hard to contact; remote							adjective leech verb
 AB{Xv0K^is	Thiguka word	pera	money	"borrowed from Tagalog pera (""money"")"						etymology::borrowings::Tagalog noun
 yv>QQ?h^(C	Thiguka word	Elija	Enya							proper-noun
 "n9CG.@o3`#"	Thiguka word	liasaga	to prohibit something; to prevent; to disqualify (v)<br>a prohibition on something (n)	"li- (negation) + asaga (""permission"")"						
@@ -283,7 +283,7 @@ BmocABACB]	Thiguka word	ithesatha	to be banned from an Internet community (v)<br
 AGR~ADJ-internet  remove.N"	liguithere lifasadha			computers::internet verb
 c1x:aSuaM8	Thiguka word	fasahri	(originating) from (a source)							preposition
 "nY#d{GG(AT"	Thiguka word	ferasala	fear of pronouncing one's name incorrectly							preposition
-Gwl`xEQ!v	Thiguka word	kalese	from (indicates removal or separation); [removed] <u>from</u> [office]							preposition
+Gwl`xEQ!v	Thiguka word	kalese	from (indicates removal or separation); [removed] <u>from</u> [office]							leech preposition
 qM.AJRqE*F	Thiguka word	orielija	to sail away from something	"Portmanteau of Orinoco (from the song ""Orinoco Flow"") + Elija (Enya). The song ""Orinoco Flow"" is also known as ""Sail Away""."						verb
 K0-^HmvvMV	Thiguka word	parefas	possibility							noun
 k{dnk5Zaxk	Thiguka word	palerefas	warning			pa~gu-palad  pa~gu-efete    parefas<br>AGR~ADJ-bad  AGR~ADJ-event  possibility	pagupalad paguefete parefas&nbsp;			interjection noun
@@ -304,7 +304,7 @@ ewz.7%-jpQ	Thiguka word	sifeyla	to listen to someone speak							leech verb
 z)ui9A5x/	Thiguka word	lahrithi	musical instrument		music making thing	"lahkela-sa thi~gu-rifari-tay thil<br>
 make.V-PRS AGR~ADJ-music-ACC thing"	lahkelasa thigurifaritay thil			noun
 D><BTy!Osr	Thiguka word	berepasla	birthplace; origin;<br>to originate in (v)		birthplace					noun verb
-M)8Nr--`?{	Thiguka word	sapara	kind; genre; class; type							noun
+M)8Nr--`?{	Thiguka word	sapara	kind; genre; class; type							leech noun
 rncyT:^=)h	Thiguka word	ifigilepelu	member (of a group)		inside-group person	"ifil pe~gu-giled   pelu<br>
 in   AGR~ADJ-group person"	ifil pegugiled pelu			noun
 ce:;+c:kK&	Thiguka word	tayle	time							noun time
@@ -316,7 +316,7 @@ mLS{9vU6WY	Thiguka word	olatha	month							noun time
 Aa&2c7e:ag	Thiguka word	fasate	year (previous/future; not current)							noun time
 k$6Ou2wmjq	Thiguka word	fasade	decade							noun time
 q*:p)DnQ6Z	Thiguka word	thasife	century							noun time
-"O|%,anLY#Q"	Thiguka word	fusta	1 minute - 1 day period							noun time
+"O|%,anLY#Q"	Thiguka word	fusta	1 minute - 1 day period							leech noun time
 LD!_7;xD9b	Thiguka word	safitha	1 day - 1 month (unspecified)							noun time
 CsXg)CdcQ-	Thiguka word	kuthifa	longer than one month (unspecified length)							noun time
 hf.K-xVijk	Thiguka word	satayle	present; current							noun time
@@ -326,9 +326,9 @@ ns5K3E?E;5	Thiguka word	isapelu	solo		one person					adjective
 Aio/lAyAp0	Thiguka word	furos	fun							noun
 "B*KU#SB2>%"	Thiguka word	lisure	leisure; fun activity; thing done for fun (n) / to have fun (v)							noun verb
 oPo~r;/r|(	Thiguka word	saleyfata	occupation	"Wiktionary: ""an <a href=""https://en.wiktionary.org/wiki/activity#English"">activity</a> or <a href=""https://en.wiktionary.org/wiki/task#English"">task</a> with which one <a href=""https://en.wiktionary.org/wiki/occupies#English"">occupies</a> oneself; <a href=""https://en.wiktionary.org/wiki/usually#English"">usually</a> <i><a href=""https://en.wiktionary.org/wiki/specifically#English"">specifically</a></i> the productive activity, <a href=""https://en.wiktionary.org/wiki/service#English"">service</a>, <a href=""https://en.wiktionary.org/wiki/trade#English"">trade</a>, or <a href=""https://en.wiktionary.org/wiki/craft#English"">craft</a> for which one is <a href=""https://en.wiktionary.org/wiki/regularly#English"">regularly</a> <a href=""https://en.wiktionary.org/wiki/paid#English"">paid</a>; a <a href=""https://en.wiktionary.org/wiki/job#English"">job</a>."""		"si~gu-sakara si~gu-leyboro sifata
-AGR~ADJ-kind AGR~ADJ-labor life"	kind of career			noun
+AGR~ADJ-kind AGR~ADJ-labor life"	kind of career			leech noun
 zjX~7H8LNO	Thiguka word	leyfata	career		work life	"si~gu-leyboro sifata<br>
-AGR~ADJ-labor life"				noun
+AGR~ADJ-labor life"				leech noun
 DmA,0QV,r*	Thiguka word	lahpeled	company		money-making organization	"pe~gu-lahkela-sa   gi-gu~pera    giled<br>
 AGR~ADJ-make.V-PRS AGR~ADJ-money guild"				
 s9XC[uU5@L	Thiguka word	rifaled	record label		music company	"lah~gu-rifari lahpeled<br>
@@ -362,7 +362,7 @@ y8b50xcJda	Thiguka word	ithe-	e-; anything associated with the Internet
 j2Nhi=YmOy	Thiguka word	ofelepe	physical mail; to mail a letter							noun verb
 nO)EgkSL=+	Thiguka word	ithefelepe	email; to email someone							noun verb
 pJcyY.~?st	Thiguka word	asawa	spouse; husband; wife	"From Tagalog ""asawa"""						etymology::borrowings::Tagalog noun verb
-J^Q}wD<nX~	Thiguka word	rifalahfas	album	"rifari (""music"") + salahfas (""collection"")"						
+J^Q}wD<nX~	Thiguka word	rifalahfas	album	"rifari (""music"") + salahfas (""collection"")"						leech
 d7y{0_G$;7	Thiguka word	kasa	this	proximal determiner						
 z.U9eAS]Ju	Thiguka word	saka	"that [thing] near you / Tagalog ""diyan"""	medial determiner						
 ISW3uB&XQ;	Thiguka word	asila	that	distal determiner						
@@ -372,7 +372,7 @@ O(_B?:^%~U	Thiguka word	pafay	to have; has;	From Thiguka -pafay (genitive)						
 Eg)RG$l4sI	Thiguka word	lakad	walk; to walk	"borrowed from Tagalog lakad (""walk"")"						etymology::borrowings::Tagalog verb
 DEFKh{gB/|	Thiguka word	esahla	existence; to exist							noun verb
 "wkkR1i9[+#"	Thiguka word	liti	small (size); little; tiny; to shrink; to deflate							adjective verb
-2a2y*l7>|	Thiguka word	laki	big (size); to grow in size; to expand; to inflate	"From Tagalog ""big"""						adjective etymology::borrowings::Tagalog
+2a2y*l7>|	Thiguka word	laki	big; large; huge; to grow in size; to expand; to inflate	"From Tagalog ""laki"" (""big"")"						adjective etymology::borrowings::Tagalog
 qS4Aa3+/^5	Thiguka word	o	or							etymology::borrowings::Tagalog
 J)A<yknGw?	Thiguka word	kula	if							
 M/TR/F)Q>=	Thiguka word	gasari	action; to do; to take an action;							noun
@@ -424,3 +424,24 @@ v8^?$}LAFn	Thiguka word	fulafata	hiking; to hike		fun walk that is not in a city
 -WT[p1]To	Thiguka word	patalara	dormant person feeling;<br>to feel the dormant person feeling, i.e. to be curious, with concern, for a person who has disappeared and has not been heard from, especially on the Internet	"The dormant person feeling is a type of feeling experienced by Lemuria when he encounters dormant people who have not posted in several years. It is best described as a mix of unease, concern, empathy, and curiosity.
 
 To alleviate this feeling, Lemuria often attempts to investigate the person to find their most recent postings; such as within the last month or week, to determine if they are alive."						noun verb
+lC.L|WAQ-A	Thiguka word	sapakalakesi	to graduate from school							verb
+"fGMva[;O#="	Thiguka word	gisakala	curiosity; to be curious	"blend of gisafi (""desire"") + kala (""knowledge"")"	to desire knowledge					noun verb
+v.R-t*Oy!3	Thiguka word	kalirah	to initiate an action; to begin doing something;							verb
+i[&DldaQ%]	Thiguka word	paratas	to receive; to get;							verb
+K2~RTyTc1K	Thiguka word	parakala	to study; to learn; to receive knowledge							verb
+iO@C6hnEGH	Thiguka word	seregithe	between websites (direction)							directional noun
+"qzWA=?>O#b"	Thiguka word	telires	along a Twitch raid train (direction)							directional noun
+"ej:p8V*i#V"	Thiguka word	tasaofebi	upstream							directional noun
+Leo4ckVEnR	Thiguka word	litasaofebi	downstream							directional noun
+lGc7f(yzOR	Thiguka word	olerethe	to triumph; to achieve victory, in a contest (transitive)							transitive verb
+l?J{kC;M+1	Thiguka word	thalisi	to compete; to be in conflict with someone; to try to one-up someone							verb
+emrO;OCq^h	Thiguka word	fahlahsage	government; (transitive) to govern or administer a country, place, or location&nbsp;							noun transitive verb
+JkXFF{sgWo	Thiguka word	fahpalasla	country							noun
+"u=>vMm.#h!"	Thiguka word	thalipalasla	international competition							noun
+l&|D]Fqq;^	Thiguka word	falgad	a job requiring low effort due to being highly automated (noun)<br>to automate one's job due to laziness (verb)							noun verb
+"Bf$#r8Q}A#"	Thiguka word	ukagahli	to throw a sheep into a river							verb
+zlKQ15U(f1	Thiguka word	tugasa	to pretend to do something; to put on an act							cdn-telephone verb
+Or>_n/h^E6	Thiguka word	rases	(of a person) to mukbang; to eat in large quantities;<br>(of a restaurant) to serve excessively large portion sizes							cdn-telephone verb
+EwsQk{NXJR	Thiguka word	sidsi	boring old man; an old man unwilling or unable to share stories							cdn-telephone noun
+z,*?cBxyIO	Thiguka word	teliri	to fall asleep while watching a Twitch stream							cdn-telephone noun Twitch
+AKVbPulwHZ	Thiguka word	lekolo	a beach, especially with tourists; a beach resort							cdn-telephone noun
